@@ -6,7 +6,7 @@
 
 ## The Official Organization of Code Smell 💩
 
-- **[youtube.com/c/CodeSmell](https://www.youtube.com/c/CodeSmell)**
+- **[youtube.com/CodeSmell](https://www.youtube.com/CodeSmell)**
 - **[Dotfiles](https://github.com/whatsthatsmell/dots)**
 
 **Some Lua key mapping goodness for your Neovim config:**
