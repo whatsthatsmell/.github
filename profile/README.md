@@ -25,10 +25,5 @@ vim.api.nvim_set_keymap("n", "<leader>sl", ":s/<C-R><C-W>//gI<left><left><left>"
 
 **Proud Sponsor of [Neovim](https://github.com/neovim) and [Rust Analyzer](https://github.com/rust-analyzer)**
 
-<details>
-  <summary>Stats</summary>
-  
-![Metrics](https://github.com/whatsthatsmell/whatsthatsmell/blob/main/github-metrics.svg)
-  
-</details>
+
 
