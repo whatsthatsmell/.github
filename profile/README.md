@@ -10,7 +10,7 @@
 - **[Dotfiles](https://github.com/whatsthatsmell/dots)**
 
 ### NeoNews:
-- [Neovim 0.6 release stream TODAY (11/30/21 at 17:00 UTC/12:00 pm EST)](https://neovim.discourse.group/t/neovim-0-6-release-stream-11-30-21-at-17-00-utc-12-00-pm-est/1535)
+- [Neovim has 0.6 released](https://github.com/neovim/neovim/releases/tag/v0.6.0)
 - 🔭 [Telescope's `builtin.file_browser` will be removed December 19th](https://github.com/nvim-telescope/telescope.nvim/issues/1470#issuecomment-974147513)
 
 <br>
