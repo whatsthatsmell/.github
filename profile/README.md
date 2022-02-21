@@ -14,7 +14,7 @@
 - [Neovim 0.6.1 has released](https://github.com/neovim/neovim/releases/tag/v0.6.1)
 
 ### RustyNews:
-- [Rust 1.58.1 Stable Released](https://blog.rust-lang.org/2022/01/20/Rust-1.58.1.html) *_you should use nightly though_
+- [rust-analyzer joins the Rust organization!](https://blog.rust-lang.org/2022/01/20/Rust-1.58.1.html) 🦀⚙️
 <br>
 
 **Some Lua key mapping goodness for your Neovim config:**
