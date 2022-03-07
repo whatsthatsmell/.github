@@ -32,7 +32,7 @@ vim.api.nvim_set_keymap("n", "<leader>sl", ":s/<C-R><C-W>//gI<left><left><left>"
 
 **Neovim Telescope is the superpower you need: https://git.io/telescope999 🔭**
 
-**Proud Sponsor of [Neovim](https://github.com/neovim) and [Rust Analyzer](https://github.com/rust-analyzer) and others!**
+**Proud Sponsor of [Neovim](https://github.com/neovim)**
 
 **Sponsor us by clicking the `Sponsor` button above or at https://paypal.me/CodeSmell**
 
