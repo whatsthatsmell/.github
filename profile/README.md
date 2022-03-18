@@ -12,6 +12,7 @@
 
 ### NeoNews:
 - [Neovim 0.6.1 has released](https://github.com/neovim/neovim/releases/tag/v0.6.1)
+- [Global Status](https://github.com/neovim/neovim/commit/5ab122917474b3f9e88be4ee88bc6d627980cfe0) **[Goodness](https://github.com/nvim-lualine/lualine.nvim/pull/613)**!
 
 ### RustyNews:
 - [Announcing Rust 1.59.0 Stable](https://blog.rust-lang.org/2022/02/24/Rust-1.59.0.html) 🦀 [Release Notes](https://github.com/rust-lang/rust/blob/master/RELEASES.md#version-1590-2022-02-24)
