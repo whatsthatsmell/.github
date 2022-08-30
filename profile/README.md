@@ -33,7 +33,7 @@ vim.api.nvim_set_keymap("n", "<leader>sr", ":%s/<C-R><C-W>//gI<left><left><left>
 vim.api.nvim_set_keymap("n", "<leader>sl", ":s/<C-R><C-W>//gI<left><left><left>", { noremap = false })
 ```
 
-**Neovim Telescope is the superpower you need: https://tinyurl.com/NvimTelescope999 🔭**
+**Neovim Telescope is the superpower you need: https://git.io/telescope999 🔭**
 
 **Proud Sponsor of [Neovim](https://github.com/neovim)**
 
