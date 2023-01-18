@@ -11,7 +11,7 @@
 - **[Dotfiles](https://github.com/whatsthatsmell/dots)**
 
 ### RustyNews:
-- **[Announcing Rust 1.66.0 Stable](https://blog.rust-lang.org/2022/12/15/Rust-1.66.0.html)** 🦀
+- **[Announcing Rust 1.66.1 Stable](https://blog.rust-lang.org/2023/01/10/Rust-1.66.1.html)** 🦀
 - [rust-analyzer joins the Rust organization!](https://blog.rust-lang.org/2022/01/20/Rust-1.58.1.html)
 - [quick note](https://github.com/whatsthatsmell/q-note) 🦀⚙ -- a little Rust WIP from 💩-- contributions welcomed
 ### NeoNews:
